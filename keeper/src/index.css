@@ -25,17 +25,6 @@ body {
   font-weight: 200;
 }
 
-.footer {
-  position: absolute;
-  text-align: center;
-  bottom: 0;
-  width: 100%;
-  height: 2.5rem;
-}
-
-.footer p {
-  color: black;
-}
 .note {
   background: #fff;
   border-radius: 7px;
@@ -54,5 +43,17 @@ body {
   margin-bottom: 10px;
   white-space: pre-wrap;
   word-wrap: break-word;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.footer p {
+  color: black;
 }
 
