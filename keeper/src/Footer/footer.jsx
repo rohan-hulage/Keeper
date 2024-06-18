@@ -2,9 +2,9 @@ import React from "react";
 
 function Footer() {
     return(
-        <div className="footer">
+        <footer>
             <p>Made with &#128155; by Abhishek</p>
-        </div>
+        </footer>
     );
 }
 
